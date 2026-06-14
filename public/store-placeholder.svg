@@ -1,0 +1,18 @@
+<svg width="640" height="360" viewBox="0 0 640 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="640" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#1F2937"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="190" y1="120" x2="450" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5D56C"/>
+      <stop offset="1" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="320" cy="160" r="70" fill="#0B0F19" stroke="url(#gold)" stroke-width="8"/>
+  <path d="M280 160H360" stroke="#F5D56C" stroke-width="10" stroke-linecap="round"/>
+  <path d="M320 120V200" stroke="#F5D56C" stroke-width="10" stroke-linecap="round"/>
+  <rect x="178" y="250" width="284" height="40" rx="20" fill="#0B0F19" stroke="#374151"/>
+  <text x="320" y="276" text-anchor="middle" fill="#E5E7EB" font-family="Arial, sans-serif" font-size="20" font-weight="700">Image bientot disponible</text>
+</svg>

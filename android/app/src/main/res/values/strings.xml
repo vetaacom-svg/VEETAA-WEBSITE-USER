@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Veetaa</string>
+    <string name="title_activity_main">Veetaa</string>
+    <string name="package_name">com.veetaa.app</string>
+    <string name="custom_url_scheme">com.veetaa.app</string>
+</resources>
