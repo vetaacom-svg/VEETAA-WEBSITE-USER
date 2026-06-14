@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { createPortal } from 'react-dom';
 import { TRANSLATIONS } from '../constants';
 import { CategoryID, Language, Product, Store } from '../types';
-import { Heart, Star, MapPin, Search, ChevronDown, Loader2, Navigation, LayoutGrid, Zap, Grid, List, ChevronRight } from 'lucide-react';
+import { Heart, Star, MapPin, Search, ChevronDown, Loader2, Navigation, LayoutGrid, Zap, Grid, List, ChevronRight, ShoppingBag } from 'lucide-react';
 import { catalogRepo } from '../data/repos/catalogRepo';
 import { useCatalog } from '../context/CatalogContext';
 import { sanitizeSearchInput } from '../lib/security';
